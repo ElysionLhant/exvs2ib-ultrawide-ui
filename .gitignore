@@ -1,0 +1,8 @@
+dist/
+*.log
+*.obj
+*.exp
+*.lib
+*.user
+*.suo
+.vs/

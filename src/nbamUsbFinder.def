@@ -1,0 +1,7 @@
+EXPORTS
+nbamUsbFinderGetSerialNumber
+nbamUsbFinderInitialize
+nbamUsbFinderRead
+nbamUsbFinderRelease
+nbamUsbFinderWrite
+nbamUsbFinder_GetInformation
